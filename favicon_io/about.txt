@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Playfair
+- Font Author: Copyright 2005 The Playfair Project Authors (https://github.com/googlefonts/Playfair)
+- Font Source: http://fonts.gstatic.com/s/playfair/v2/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgdoSMw5ifm.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
